@@ -10,13 +10,13 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
-     Commit all the updates
+Commit all the updates
 
 ### STEP 2:
-    Change the URL of the GitHub remote repository
+Change the URL of the GitHub remote repository
 
 ### STEP 3:
-    Push the changes in the branch to the Github repository
+Push the changes in the branch to the Github repository
 
 ## PROGRAM
 
